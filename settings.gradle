@@ -1,0 +1,2 @@
+rootProject.name='Mitchtabian_UITest_Examples'
+include ':app'
